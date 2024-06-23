@@ -128,8 +128,8 @@ const CONFIG = {
     },
     {
       company: 'LISHELIVING LTD- HealthCare',
-      position: 'Software Developer Intern',
-      from: 'April 2019',
+      position: 'Software Developer Internship',
+      from: 'January 2019',
       to: 'December 2019',
       companyLink: 'https://www.lisheliving.com/',
     },
