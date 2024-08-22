@@ -17,10 +17,10 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
-        limit: 6, // How many projects to display.
+        limit: 8, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
-          projects: ['tonnymuchui/Portfolio', 'tonnymuchui/tonnymuchui', 'tonnymuchui/Megaverse'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          forks: true, // Forked projects will not be displayed if set to true.
+          projects: ['tonnymuchui/Portfolio', 'tonnymuchui/tonnymuchui', 'tonnymuchui/Megaverse'], // These projects will not be displayed. example: ['tonnymuchui/Megaverse', 'tonnymuchui/tonnymuchui']
         },
       },
       manual: {
@@ -33,7 +33,7 @@ const CONFIG = {
           'tonnymuchui/Food-Ordering-Website-Frontend',
           'tonnymuchui/Food-Ordering-Website-Backend',
           'tonnymuchui/Shopping',
-        ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        ], // List of repository names to display. example: [tonnymuchui/tonnymuchui1', 'tonnymuchui/tonnymuchui']
       },
     },
     external: {
