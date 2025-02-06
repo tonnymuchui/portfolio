@@ -99,7 +99,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://docs.google.com/document/d/1SXv2eT8bOKEvzYttmDc904t2c7qQdRhE4smM7a084jc/edit?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1GnTZlqaarh0iO6xfKRJ3EqTbcNuhA4-I/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
