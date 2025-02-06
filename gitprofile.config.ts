@@ -73,7 +73,7 @@ const CONFIG = {
   seo: {
     title: 'Tonny muchui',
     description: 'I’m Tonny Muchui, a Full-Stack Software Engineer skilled in Kotlin, Java, Android, Spring Boot, React.js, AWS, GCP, Docker, and microservices. I build scalable, secure, and high-performance solutions that power industries like healthcare, finance, and ERP. Passionate about mentoring teams and driving innovation, I combine my expertise in data engineering and AI/ML tools to solve complex problems and deliver impactful results.',
-    imageURL: 'https://drive.google.com/file/d/1GnTZlqaarh0iO6xfKRJ3EqTbcNuhA4-I/view?usp=sharing',
+    imageURL: 'https://drive.google.com/file/d/1C7LiwFXU76vdOTSiJD48DaEGc8DHMFZt/view?usp=sharing',
   },
   social: {
     linkedin: 'tonny-muchui',
